@@ -1,0 +1,92 @@
+[
+    {
+        "rank": 1,
+        "song_name": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "album": "Short n' Sweet",
+        "genre": "Pop",
+        "streams_millions": 950,
+        "release_year": 2024
+    },
+    {
+        "rank": 2,
+        "song_name": "Beautiful Things",
+        "artist": "Benson Boone",
+        "album": "Fireworks & Rollerblades",
+        "genre": "Pop Rock",
+        "streams_millions": 920,
+        "release_year": 2024
+    },
+    {
+        "rank": 3,
+        "song_name": "Birds of a Feather",
+        "artist": "Billie Eilish",
+        "album": "Hit Me Hard and Soft",
+        "genre": "Pop",
+        "streams_millions": 890,
+        "release_year": 2024
+    },
+    {
+        "rank": 4,
+        "song_name": "Too Sweet",
+        "artist": "Hozier",
+        "album": "Unheard",
+        "genre": "Alternative",
+        "streams_millions": 850,
+        "release_year": 2024
+    },
+    {
+        "rank": 5,
+        "song_name": "Lose Control",
+        "artist": "Teddy Swims",
+        "album": "I've Tried Everything But Therapy",
+        "genre": "Soul Pop",
+        "streams_millions": 810,
+        "release_year": 2024
+    },
+    {
+        "rank": 6,
+        "song_name": "Greedy",
+        "artist": "Tate McRae",
+        "album": "Think Later",
+        "genre": "Pop",
+        "streams_millions": 780,
+        "release_year": 2023
+    },
+    {
+        "rank": 7,
+        "song_name": "Cruel Summer",
+        "artist": "Taylor Swift",
+        "album": "Lover",
+        "genre": "Pop",
+        "streams_millions": 760,
+        "release_year": 2019
+    },
+    {
+        "rank": 8,
+        "song_name": "Stick Season",
+        "artist": "Noah Kahan",
+        "album": "Stick Season",
+        "genre": "Folk Pop",
+        "streams_millions": 720,
+        "release_year": 2022
+    },
+    {
+        "rank": 9,
+        "song_name": "Houdini",
+        "artist": "Dua Lipa",
+        "album": "Radical Optimism",
+        "genre": "Dance Pop",
+        "streams_millions": 690,
+        "release_year": 2024
+    },
+    {
+        "rank": 10,
+        "song_name": "Fortnight",
+        "artist": "Taylor Swift",
+        "album": "The Tortured Poets Department",
+        "genre": "Pop",
+        "streams_millions": 650,
+        "release_year": 2024
+    }
+]
